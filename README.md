@@ -28,3 +28,6 @@ This is an experimental audio tool for **morphing two audio files** into a new b
 
 ```bash
 !pip install librosa soundfile ipywidgets --quiet
+
+## Open in Colab
+https://colab.research.google.com/drive/1U8h4zdk021DMePZ13TNJ2lzKw50MQuhk?usp=sharing
